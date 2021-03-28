@@ -128,14 +128,10 @@ public class PuhClient extends JFrame {
                     URL url = new URL(str);
 
                     HttpURLConnection conn = (HttpURLConnection) url.openConnection();
-
                     conn.connect();
-
                     BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-
                     String inputLine = in.readLine().trim();
                     System.out.println("input: " + inputLine);
-
                     if (inputLine.indexOf('~') >= 0) {
                         flag = true;
                         String[] mas = inputLine.split("~");
