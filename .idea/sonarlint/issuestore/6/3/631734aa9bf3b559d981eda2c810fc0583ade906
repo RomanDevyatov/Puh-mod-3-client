@@ -1,0 +1,63 @@
+
+P	java:S110"<This class has 6 parents which is greater than 5 authorized.(ˆÚõN
+7
+java:S1643"Use a StringBuilder instead.(Ò›¡œıÿÿÿÿ
+2
+java:S1643)"Use a StringBuilder instead.(ÁóÌù
+7
+java:S1643*"Use a StringBuilder instead.(«˜‹…úÿÿÿÿ
+C
+java:S16045"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+C
+java:S1604z"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ
+d
+java:S3252E"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+7
+java:S2129V"!Remove this "Integer" constructor(Ş›¥·
+E
+java:S1874V"/Remove this use of "Integer"; it is deprecated.(Ş›¥·
+<
+java:S2129W"!Remove this "Integer" constructor(ğ´æÙûÿÿÿÿ
+J
+java:S1874W"/Remove this use of "Integer"; it is deprecated.(ğ´æÙûÿÿÿÿ
+<
+java:S2129X"!Remove this "Integer" constructor(â“ö§ÿÿÿÿÿ
+J
+java:S1874X"/Remove this use of "Integer"; it is deprecated.(â“ö§ÿÿÿÿÿ
+<
+java:S2129Y"!Remove this "Integer" constructor(™µ¹°øÿÿÿÿ
+J
+java:S1874Y"/Remove this use of "Integer"; it is deprecated.(™µ¹°øÿÿÿÿ
+7
+java:S2129Z"!Remove this "Integer" constructor(€’áè
+E
+java:S1874Z"/Remove this use of "Integer"; it is deprecated.(€’áè
+<
+java:S2129["!Remove this "Integer" constructor(¾úôêøÿÿÿÿ
+J
+java:S1874["/Remove this use of "Integer"; it is deprecated.(¾úôêøÿÿÿÿ
+<
+java:S2129\"!Remove this "Integer" constructor(äÛŒ›øÿÿÿÿ
+J
+java:S1874\"/Remove this use of "Integer"; it is deprecated.(äÛŒ›øÿÿÿÿ
+7
+java:S2129]"!Remove this "Integer" constructor(şä•æ
+E
+java:S1874]"/Remove this use of "Integer"; it is deprecated.(şä•æ
+7
+java:S2129^"!Remove this "Integer" constructor(÷ûúõ
+E
+java:S1874^"/Remove this use of "Integer"; it is deprecated.(÷ûúõ
+<
+java:S2129_"!Remove this "Integer" constructor(îşêâøÿÿÿÿ
+J
+java:S1874_"/Remove this use of "Integer"; it is deprecated.(îşêâøÿÿÿÿ
+U
+java:S1161h":Add the "@Override" annotation above this method signature(ÍŸÏ†ùÿÿÿÿ
+P
+java:S1161n":Add the "@Override" annotation above this method signature(ÚÎ€÷
+T
+java:S1854–"8Remove this useless assignment to local variable "conn".(€×³›ÿÿÿÿÿ
+M	java:S106}"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(†ì
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
